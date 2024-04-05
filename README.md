@@ -5,7 +5,7 @@ Team name:
 
 
 Team members and their email addresses:
-<b>Eli Newsham - newshameli@gmail.com
+<br>Eli Newsham - newshameli@gmail.com
 
 
 Description and links to the datasets used:
@@ -19,18 +19,18 @@ Which individual analysis notebooks belong to which team members:
 
 
 Canvas group number:
-<b>Group 22
+<br>Group 22
 
 
 Description and Links to the datasets used:
 Dataset 1:
-<b>Description:
+<br>Description:
 
 Dataset 2:
-<b>Description:
+<br>Description:
 
 Dataset 3:
-<b>Description:
+<br>Description:
 
 
 A one-sentence overview of your repository, meant for someone who is not familiar with the project:
